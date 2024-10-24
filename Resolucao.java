@@ -1,6 +1,8 @@
 import java.io.*; 
 import java.util.*;
 
+// Teste incompleto
+
 public class Solution { 
     private static void printArray(T[] t) { 
         for(T arr:t) { 
